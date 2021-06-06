@@ -11,9 +11,9 @@ Somatic single nucleotide variants (SNVs) in cancer genome affect gene expressio
 **Command Example:**
 
 ```python Detect_SNV_IPA.py -bam GRHL2_TCGA-95-7043_test.bam -anno_txt hg38_annotation.txt -snv_file GRHL2_SNV_information.txt -output GRHL2_SNV_IPA.txt```
-##### GRHL2_TCGA-95-7043_test.bam: a bamfile extracted reads mapping the locus *GRHL2* from RNAseq bamfile of patient TCGA-95-7043
+##### GRHL2_TCGA-95-7043_test.bam: a bamfile extracted reads mapping the gene *GRHL2* from RNAseq bamfile of patient TCGA-95-7043
 ##### hg38_annotation.txt: a file contains all information of introns and exons annotated by Refseq
-##### GRHL2_SNV_information.txt: a file contains information about somatic variants of GRHL2 in patient TCGA-95-7043 
+##### GRHL2_SNV_information.txt: a file contains information about somatic variants of *GRHL2* in patient TCGA-95-7043 
 
 
 **The following python packages are necessary:**
