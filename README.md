@@ -16,6 +16,8 @@ Somatic single nucleotide variants (SNVs) in cancer genome affect gene expressio
 ##### GRHL2_SNV_information.txt: a file contains information about somatic variants of *GRHL2* in patient TCGA-95-7043 
 
 
+**Statement:**The Cancer Genome Atlas (TCGA) characterizes a comprehensive list of genomic, epigenomic, and transcriptomic features in thousands of tumor samples. Here we use the example of *GRHL2* to show how to perform SNV-IpA analysis. One can utilize our functions in the python script file to further perform SNV-IpA analysis by intergrating more whole-exome sequencing and RNAseq datasets.
+
 **The following python packages are necessary:**
 
 HTSeq、itertools、numpy、collections、multiprocessing、scipy、argparse、re、os
