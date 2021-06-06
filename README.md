@@ -15,5 +15,7 @@ Somatic single nucleotide variants (SNVs) in cancer genome affect gene expressio
 ##### hg38_annotation.txt: a file contains all information of introns and exons annotated by Refseq
 ##### GRHL2_SNV_information.txt: a file contains information about somatic variants of GRHL2 in patient TCGA-95-7043 
 
-## The following python packages are necessary
+
+**The following python packages are necessary:**
+
 HTSeq、itertools、numpy、collections、multiprocessing、scipy、argparse、re、os
