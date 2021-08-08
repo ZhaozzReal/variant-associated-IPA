@@ -4,7 +4,7 @@ Somatic single nucleotide variants (SNVs) in cancer genome affect gene expressio
 
 
 #### RNAseq density plots and IGV browser screenshot showing that somatic variant could cause abnormal intronic polyadenylation in *GRHL2*.
-<img src="https://github.com/ZhaozzReal/SNV_IPA/blob/main/Examples.png" width="400" height="400"/>
+<img src="https://github.com/ZhaozzReal/SNV_IPA/blob/main/Examples.png" width="500" height="300"/>
 
 
 
