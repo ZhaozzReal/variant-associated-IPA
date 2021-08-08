@@ -1,1 +1,0 @@
-chr8:GRHL2|+/1	chr8:101644130-101644225	101644225	+	exon_25	0	intron_26	5SS	TCGA-95-7043-01A	G>T	Missense_Mutation
