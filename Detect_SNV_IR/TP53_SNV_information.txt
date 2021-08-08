@@ -1,0 +1,1 @@
+chr17:TP53|-/1	chr17:7675993-7676272	7675994	-	exon_16	1	intron_15	5SS	TCGA-LA-A446-01A	C>A	Splice_Region
