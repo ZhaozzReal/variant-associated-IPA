@@ -4,7 +4,7 @@ Somatic single nucleotide variants (SNVs) in cancer genome affect gene expressio
 
 #### RNAseq density plots and IGV browser screenshots showing that somatic variant could cause intronic polyadenylation in *GRHL2* (A) and intron retention in *TP53* (B).
 
-<img src="https://github.com/ZhaozzReal/SNV_IPA/blob/main/Examples.png" width="500" height="300"/>
+<img src="https://github.com/ZhaozzReal/SNV_IPA/blob/main/Examples.png" />
 
 
 
@@ -18,7 +18,7 @@ Somatic single nucleotide variants (SNVs) in cancer genome affect gene expressio
 
 **hg38_annotation.txt:**  a file contains all information of introns and exons annotated by Refseq
 
-**GRHL2_SNV_information.txt: ** a file contains information about somatic variants of *GRHL2* in patient TCGA-95-7043 
+**GRHL2_SNV_information.txt:** a file contains information about somatic variants of *GRHL2* in patient TCGA-95-7043 
 
 
 
