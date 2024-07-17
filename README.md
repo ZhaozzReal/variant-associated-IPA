@@ -1,6 +1,6 @@
 
 ## Description
-Genetic variants could affect gene expression through various mechanisms depending on their genomic location. In this study, we found that genetic variants near splice sites are associated with abnormal intronic polyadenylation (IPA) . Here we give examples to show how to detect variant-associated IPA events and variant-associated intron retention (IR) events.
+Genetic variants could affect gene expression through various mechanisms depending on their genomic location. We found that genetic variants near splice sites are associated with abnormal intronic polyadenylation (IPA). Here we give examples to show how to detect variant-associated IPA events and variant-associated intron retention (IR) events.
 
 #### RNAseq density plots and IGV browser screenshots showing that somatic single nucleotide variant (SNV) could cause intronic polyadenylation in *GRHL2* (A) and intron retention in *TP53* (B).
 
@@ -30,7 +30,7 @@ Genetic variants could affect gene expression through various mechanisms dependi
 
 
 
-**Statement:** The Cancer Genome Atlas (TCGA) characterizes a comprehensive list of genomic, epigenomic, and transcriptomic features in thousands of tumor samples. Here we give the examples to show how to perform variant-associated IPA analysis and variant-associated IR analysis. One can utilize our code functions in the python script file to further perform variant-associated IPA analysis and variant-associated IR analysis by intergrating more WGS/WES and RNAseq datasets.
+**Statement:** The Cancer Genome Atlas (TCGA) characterizes a comprehensive list of genomic, epigenomic, and transcriptomic features in thousands of tumor samples. Here we give the examples to show how to perform variant-associated IPA analysis and variant-associated IR analysis. One can utilize our code functions in the python script file to further perform variant-associated IPA/IR analysis by intergrating more WGS/WES and RNAseq datasets.
 
 **The following python packages are necessary:**
 
