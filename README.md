@@ -50,5 +50,5 @@ HTSeq、itertools、numpy、collections、multiprocessing、scipy、argparse、r
 
 ## Contact
 
-If you have any comments, suggestions, questions, bug reports, etc, feel free to contact Zhaozhao Zhao (zz_zhaobioinfo@126.com). 
+If you have any comments, suggestions, questions, bug reports, etc, feel free to contact Zhaozhao Zhao (zhaozzbio@126.com). 
 And PLEASE attach your command line and log messages if possible.
